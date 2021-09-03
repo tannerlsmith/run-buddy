@@ -4,5 +4,5 @@
 * progressive CSS Application.
 * Strictly css & html. 
 ## deployed at
-https://lernantino.github.io/run-buddy/
+https://tannerlsmith.github.io/run-buddy/
 
